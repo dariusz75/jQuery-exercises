@@ -1,0 +1,19 @@
+body {
+	background-color: #AEFFF9;
+}
+
+#tour {
+	background-color: #3DFF94;
+}
+
+li {
+	list-style: none;
+}
+
+img {
+	width: 130px;
+}
+
+.photos {
+	display: none;
+}
