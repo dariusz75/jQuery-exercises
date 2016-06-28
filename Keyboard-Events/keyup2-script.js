@@ -9,6 +9,12 @@ $(document).ready(function(){
   $('.price').text(totalPrice);
   $('.quantity-given').text(quantity);
   $('.total').text(totalPriceWithVat);
-   
+  
+  if (quantity == 1) {
+  	$('.tickets').text(' ticket');
+  } else {
+  	$('.tickets').text(' tickets');
+  }
+
    });
 });
