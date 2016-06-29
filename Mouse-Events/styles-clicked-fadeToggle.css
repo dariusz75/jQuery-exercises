@@ -1,0 +1,23 @@
+.photos {
+	padding: 0;
+	display: none;
+}
+
+li {
+	list-style: none;
+}
+
+.tour {
+	display: inline-block;
+	padding: 0 20px;
+}
+
+.book {
+	display: block;
+	margin: 10px 0;
+}
+
+.see-photos {
+	display: block;
+	margin: 0 0 10px 0;
+}
